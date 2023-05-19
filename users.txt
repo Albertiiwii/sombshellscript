@@ -1,0 +1,6 @@
+marco,1smr
+pablo,1smr
+paula,2smr
+alfonso,1smr
+pepe,2smr
+mario,2smr
