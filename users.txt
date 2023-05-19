@@ -4,3 +4,4 @@ paula,2smr
 alfonso,1smr
 pepe,2smr
 mario,2smr
+PRUEBA2,1smr
